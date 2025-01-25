@@ -1,0 +1,5 @@
+Project MINIMO
+
+color-
+    gray- #626262
+    black- #000000
